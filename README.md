@@ -88,9 +88,18 @@ It should look like this when you set up all Sev-Types.
 
 - <h2>Configure Help Topics<h2>
 1. Admin Panel -> Manage -> Help Topics
+![13](https://i.imgur.com/dodgai7.jpeg)
 2. Business Critical Outage
 3. Personal Computer Issues
 4. Equipment Request
 5. Password Reset
+
+![14](https://i.imgur.com/M8P0LIT.png)
+
+It should look like this 
+
+![15](https://i.imgur.com/MKe9rTz.jpeg)
+
+Update the New Ticket Options and follow the steps above. 
 
 On the [next tutorial](https://github.com/fnabeel/osTicket---Ticket-Lifecycle-Intake-Through-Resolution), we will create Tickets and showcase the Ticket Lifecycle.
