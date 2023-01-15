@@ -71,20 +71,45 @@ Create a directory C:\PHP
 
 Next download osTicket, extract the content to the folder c:\inetpub\wwwroot. Rename the folder "Upload" to "osTicket".
 
+https://i.imgur.com/OOt21rj.png
+
 Open IIS Manager as an Admin, Register the PHP using the PHP folder.
+
+https://i.imgur.com/6KjxMgM.jpeg
 
 In IIS Manager, open PHP Manager. We need to enable three extensions by the name of php_imap.dll, php_intl.dll, php_opcache.dll
 Now reload IIS manager and make your way to "Sites > Default > osTickets. On the right side, click " Browse *:80" to open the osTicket web-interface.
 
+https://i.imgur.com/u6pakKc.png
+
+
+It should turn out to look something like this. 
+https://i.imgur.com/HaWxYUf.jpeg
+
 Perfect. Now lets step back and return to c:\inetpub\wwwroot\osticket\include\, here look for the file named "ost-sampleconfig.php"
 We will rename it to "ost-config.php". Once that is completed, right click the file, open properties, under the secruity tab, "Disable Inheritance". Then Remove all new permissions, and give everyone permissions. 
 
+https://i.imgur.com/wAiCy7l.jpeg
+https://i.imgur.com/1q0MBu8.jpeg
+
+<b> HeidiSQL<b>
+From the [Installation Files](https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6), download and install [HeidiSQL](https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit).
+
+- Open Heidi SQL
+- Create a new session, root/Password1
+- Connect to the session
+- Create a database called “osTicket”
+
 One step closer to the end. Let us return to osTicket in the web-interface. Name the Helpdesk to your hearts content. Anything will do. Just remember your login credentials. 
+
 
 ##Continue Setting up osticket in the browser
 - MySQL Database: osTicket
 - MySQL Username: root
 - MySQL Password: Password1
 - Click “Install Now!”
+
+https://i.imgur.com/7feHgME.png
+https://i.imgur.com/BBPr0mx.png
 
 Hopefully osTicket is up and running without any issues. If there is any, feel free to contact me. Now let us be on our way to the next assignment. [Post Installation Config](https://github.com/fnabeel/osTicket---Post-Install-Configuration)
