@@ -69,5 +69,22 @@ Create a directory C:\PHP
 - From the Installation Files, download and install VC_redist.x86.exe.
 - From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 
-Now, Open IIS as admin by typing it in the start menu. 
+Next download osTicket, extract the content to the folder c:\inetpub\wwwroot. Rename the folder "Upload" to "osTicket".
 
+Open IIS Manager as an Admin, Register the PHP using the PHP folder.
+
+In IIS Manager, open PHP Manager. We need to enable three extensions by the name of php_imap.dll, php_intl.dll, php_opcache.dll
+Now reload IIS manager and make your way to "Sites > Default > osTickets. On the right side, click " Browse *:80" to open the osTicket web-interface.
+
+Perfect. Now lets step back and return to c:\inetpub\wwwroot\osticket\include\, here look for the file named "ost-sampleconfig.php"
+We will rename it to "ost-config.php". Once that is completed, right click the file, open properties, under the secruity tab, "Disable Inheritance". Then Remove all new permissions, and give everyone permissions. 
+
+One step closer to the end. Let us return to osTicket in the web-interface. Name the Helpdesk to your hearts content. Anything will do. Just remember your login credentials. 
+
+##Continue Setting up osticket in the browser
+- MySQL Database: osTicket
+- MySQL Username: root
+- MySQL Password: Password1
+- Click “Install Now!”
+
+Hopefully osTicket is up and running without any issues. If there is any, feel free to contact me. Now let us be on our way to the next assignment. [Post Installation Config](https://github.com/fnabeel/osTicket---Post-Install-Configuration)
