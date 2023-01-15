@@ -28,9 +28,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 - <h2>Configuration of Roles</h2>
 1. Admin Panel -> Agents -> Roles
 2. Supreme Admin
+
 [1](https://i.imgur.com/MTE2IPV.jpeg)
 
 Create the role Supreme Admin, and give it the accessbility that a supreme admin should have. Complete Control.
+
 [2](https://i.imgur.com/uwz8rea.png)
 
 - <h2>Configure Departments<h2>
