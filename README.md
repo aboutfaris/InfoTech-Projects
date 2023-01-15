@@ -39,8 +39,8 @@ Create the role Supreme Admin, and give it the accessbility that a supreme admin
 
 <h2>Configure Teams<h2>
 1. Admin Panel -> Agents -> Teams
-    A. Level I Support
-    B. Level II Support
+    -A. Level I Support
+    -B. Level II Support
 
 <h2>Allow anyone to create tickets<h2>
     1. Admin Panel -> Settings -> User Settings
@@ -50,24 +50,24 @@ Create the role Supreme Admin, and give it the accessbility that a supreme admin
 
 <h2>Configure [Agents(workers)](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)<h2>
     1. Admin Panel -> Agents -> Add New
-        A. Layla
-        B. Jamari
+        -A. Layla
+        -B. Jamari
 
 <h2>Configure [Users (customers)](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)<h2>
     1. Agent Panel -> Users -> Add New
-        A. Dimitri
-        B. Byleth
+        -A. Dimitri
+        -B. Byleth
 <h2>Configure [SLA](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)<h2>
     1. Admin Panel -> Manage -> SLA
-        A. Sev-A (1 hour, 24/7)
-        B. Sev-B (4 hours, 24/7)
-        C. Sev-C (8 hours, business hours)
+        -A. Sev-A (1 hour, 24/7)
+        -B. Sev-B (4 hours, 24/7)
+        -C. Sev-C (8 hours, business hours)
 
 <h2>Configure Help Topics<h2>
     1. Admin Panel -> Manage -> Help Topics
-        A. Business Critical Outage
-        B. Personal Computer Issues
-        C. Equipment Request
+        -A. Business Critical Outage
+        -B. Personal Computer Issues
+        -C. Equipment Request
         D. Password Reset
 
-On the [next tutorial](https://github.com/fnabeel/osTicket---Ticket-Lifecycle-Intake-Through-Resolution}, we will create Tickets and showcase the Ticket Lifecycle.
+On the [next tutorial](https://github.com/fnabeel/osTicket---Ticket-Lifecycle-Intake-Through-Resolution), we will create Tickets and showcase the Ticket Lifecycle.
