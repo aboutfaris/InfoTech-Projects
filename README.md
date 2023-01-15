@@ -7,7 +7,7 @@ Hi there, I am Faris, an IT Professional. Welcome to my first tutorial on settin
 
 
 <h2>What is osTicket?</h2>
-- <b>osTicket is a widely-used open source support ticket system. It seamlessly integrates inquiries created via email, phone and web-based forms into a simple easy-to-use multi-user web interface. Manage, organize and archive all your support requests and responses in one place while providing your customers with accountability and responsiveness they deserve.<b>
+-<b>osTicket is a widely-used open source support ticket system. It seamlessly integrates inquiries created via email, phone and web-based forms into a simple easy-to-use multi-user web interface. Manage, organize and archive all your support requests and responses in one place while providing your customers with accountability and responsiveness they deserve.<b>
 
 
 <h2>Environments and Technologies Used</h2>
@@ -58,16 +58,16 @@ Now we have this installed, lets [download](https://drive.google.com/drive/u/0/f
 ![ssc](https://user-images.githubusercontent.com/109401839/212543822-5cb9dd90-a14e-4931-96dd-5682964fe37d.jpg)2445aff130bd.jpg)
 
 Great, now head to the installation folders. 
-From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
-From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+- From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+- From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
 
 Create a directory C:\PHP
 
 ![mstsc_LevY5lX29v](https://user-images.githubusercontent.com/109401839/212543951-2d85a000-9828-487c-b661-69e1c5b2f983.png)
 
-From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
-From the Installation Files, download and install VC_redist.x86.exe.
-From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+- From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
+- From the Installation Files, download and install VC_redist.x86.exe.
+- From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 
 Now, Open IIS as admin by typing it in the start menu. 
 
