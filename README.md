@@ -71,7 +71,7 @@ Create a directory C:\PHP
 
 Next download osTicket, extract the content to the folder c:\inetpub\wwwroot. Rename the folder "Upload" to "osTicket".
 
-https://i.imgur.com/OOt21rj.png
+![1](https://i.imgur.com/OOt21rj.png)
 
 Open IIS Manager as an Admin, Register the PHP using the PHP folder.
 
