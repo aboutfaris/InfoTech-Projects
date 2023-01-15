@@ -48,16 +48,16 @@ Create the role Supreme Admin, and give it the accessbility that a supreme admin
 
 **Feel free to use any name to your liking !**
 
-- <h2>Configure [Agents(workers) ](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)<h2>
+- <h2>Configure Agents<h2>
 1. Admin Panel -> Agents -> Add New
 2. Layla
 3. Jamari
 
-- <h2>Configure [Users (customers) ](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)<h2>
+- <h2>Configure Users<h2>
 1. Agent Panel -> Users -> Add New
 2. Dimitri
 3. Byleth
-- <h2>Configure [SLA](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)<h2>
+- <h2>Configure SLA<h2>
 1. Admin Panel -> Manage -> SLA
 2. Sev-A (1 hour, 24/7)
 3. Sev-B (4 hours, 24/7)
