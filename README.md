@@ -109,7 +109,4 @@ One step closer to the end. Let us return to osTicket in the web-interface. Name
 - MySQL Password: Password1
 - Click “Install Now!”
 
-![7](https://i.imgur.com/7feHgME.png)
-![8](https://i.imgur.com/BBPr0mx.png)
-
 Hopefully osTicket is up and running without any issues. If there is any, feel free to contact me. Now let us be on our way to the next assignment. [Post Installation Config](https://github.com/fnabeel/osTicket---Post-Install-Configuration)
