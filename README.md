@@ -42,7 +42,6 @@ Next we will have a user create a ticket stating that they are unable to access 
 
 The ticket will be an Emergency level, we will asign the ticket, and Layla will resolve this ticket. 
 
-![2](https://i.imgur.com/T6h9GC6.png)
 
 We have contacted Dimitri on the outage in a timely manner, kept in communication, and resolved the issue. 
 
