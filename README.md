@@ -22,12 +22,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Resolutions by Priority</h2>
+
 - 1.Business Critical Outage
 This priority should be set to "Emergency"
+
 - 2. Personal Computer Issues
 This priority can be "High"
+
 - 3. Equipement Request
 Normal Priority
+
 - 4. Password Reset
 Least Priority
 
@@ -44,8 +48,6 @@ The ticket will be an Emergency level, we will asign the ticket, and Layla will 
 
 
 We have contacted Dimitri on the outage in a timely manner, kept in communication, and resolved the issue. 
-
-On the [next tutorial](https://github.com/fnabeel/configure-ad) series, it will go over features in Microsoft Azure starting with configuring active directories.
 
 
 
