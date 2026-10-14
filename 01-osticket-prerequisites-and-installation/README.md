@@ -2,6 +2,9 @@
 
 Install the open-source help desk ticketing system osTicket on a Windows 10 virtual machine in Azure, using IIS, PHP, MySQL, and HeidiSQL. osTicket collects requests from email, phone, and web forms into one multi-user web interface where agents manage, organize, and archive them.
 
+![osTicket installation architecture](assets/architecture.png)
+The diagram shows the Azure VM and the resources created with it, then the IIS, PHP, and MySQL stack that the osTicket installer connects.
+
 ## What you'll use
 
 - Microsoft Azure (Virtual Machines/Compute)
