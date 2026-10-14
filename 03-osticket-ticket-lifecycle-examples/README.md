@@ -2,6 +2,9 @@
 
 Follow one help desk ticket through osTicket from intake to resolution. The agent Layla, created in the post-install lab, logs in, opens a ticket for a reported outage, and works it through to close.
 
+![osTicket ticket lifecycle](assets/architecture.png)
+The diagram follows one outage ticket through intake, assignment and communication, working the issue, and resolution.
+
 ## What you'll use
 
 - Microsoft Azure virtual machine running Windows 10 (21H2)

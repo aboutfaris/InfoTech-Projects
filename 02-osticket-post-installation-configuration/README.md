@@ -2,6 +2,9 @@
 
 Configure a fresh osTicket install so it is ready for real tickets: roles, departments, teams, user registration, agents, users, SLAs, and help topics.
 
+![osTicket configuration architecture](assets/architecture.png)
+The diagram shows how users, agents, roles, departments, teams, SLA plans, and help topics relate after configuration.
+
 ## What you'll use
 
 - Microsoft Azure virtual machine running Windows 10 (21H2)
